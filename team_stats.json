@@ -1,0 +1,2354 @@
+{
+  "Scotland": {
+    "elo": 1747.79,
+    "avg_goals_scored": 1.7,
+    "avg_goals_conceded": 0.7,
+    "wc_exp": 9,
+    "home_boost": 0
+  },
+  "England": {
+    "elo": 1912.27,
+    "avg_goals_scored": 2.667,
+    "avg_goals_conceded": 0.444,
+    "wc_exp": 17,
+    "home_boost": 0
+  },
+  "Wales": {
+    "elo": 1694.09,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 2,
+    "home_boost": 0
+  },
+  "Northern Ireland": {
+    "elo": 1623.75,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 3,
+    "home_boost": 0
+  },
+  "United States": {
+    "elo": 1801.01,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 1.1,
+    "wc_exp": 12,
+    "home_boost": 1
+  },
+  "Canada": {
+    "elo": 1774.3,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 0.6,
+    "wc_exp": 3,
+    "home_boost": 1
+  },
+  "Uruguay": {
+    "elo": 1816.4,
+    "avg_goals_scored": 0.6,
+    "avg_goals_conceded": 1.1,
+    "wc_exp": 15,
+    "home_boost": 0
+  },
+  "Argentina": {
+    "elo": 2010.39,
+    "avg_goals_scored": 1.556,
+    "avg_goals_conceded": 0.667,
+    "wc_exp": 19,
+    "home_boost": 0
+  },
+  "Austria": {
+    "elo": 1865.79,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 0.875,
+    "wc_exp": 8,
+    "home_boost": 0
+  },
+  "Hungary": {
+    "elo": 1768.68,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 9,
+    "home_boost": 0
+  },
+  "Czechoslovakia": {
+    "elo": 1705.97,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 1.3,
+    "wc_exp": 8,
+    "home_boost": 0
+  },
+  "Belgium": {
+    "elo": 1869.81,
+    "avg_goals_scored": 2.333,
+    "avg_goals_conceded": 1.222,
+    "wc_exp": 15,
+    "home_boost": 0
+  },
+  "France": {
+    "elo": 1956.73,
+    "avg_goals_scored": 2.333,
+    "avg_goals_conceded": 1.444,
+    "wc_exp": 17,
+    "home_boost": 0
+  },
+  "Switzerland": {
+    "elo": 1836.18,
+    "avg_goals_scored": 1.556,
+    "avg_goals_conceded": 0.667,
+    "wc_exp": 13,
+    "home_boost": 0
+  },
+  "Guernsey": {
+    "elo": 1685.04,
+    "avg_goals_scored": 1.3,
+    "avg_goals_conceded": 0.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Alderney": {
+    "elo": 1145.3,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 4.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Jersey": {
+    "elo": 1746.34,
+    "avg_goals_scored": 2.8,
+    "avg_goals_conceded": 1.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Netherlands": {
+    "elo": 1907.82,
+    "avg_goals_scored": 2.0,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 12,
+    "home_boost": 0
+  },
+  "Guyana": {
+    "elo": 1455.69,
+    "avg_goals_scored": 1.6,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Trinidad and Tobago": {
+    "elo": 1498.1,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 2.6,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "South Africa": {
+    "elo": 1647.96,
+    "avg_goals_scored": 1.444,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 4,
+    "home_boost": 0
+  },
+  "Germany": {
+    "elo": 1944.63,
+    "avg_goals_scored": 1.778,
+    "avg_goals_conceded": 1.222,
+    "wc_exp": 21,
+    "home_boost": 0
+  },
+  "Sweden": {
+    "elo": 1809.23,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 1.625,
+    "wc_exp": 13,
+    "home_boost": 0
+  },
+  "Norway": {
+    "elo": 1832.36,
+    "avg_goals_scored": 2.333,
+    "avg_goals_conceded": 1.333,
+    "wc_exp": 4,
+    "home_boost": 0
+  },
+  "Denmark": {
+    "elo": 1860.75,
+    "avg_goals_scored": 1.7,
+    "avg_goals_conceded": 1.6,
+    "wc_exp": 6,
+    "home_boost": 0
+  },
+  "Italy": {
+    "elo": 1899.71,
+    "avg_goals_scored": 1.9,
+    "avg_goals_conceded": 1.3,
+    "wc_exp": 18,
+    "home_boost": 0
+  },
+  "Chile": {
+    "elo": 1747.5,
+    "avg_goals_scored": 0.6,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 9,
+    "home_boost": 0
+  },
+  "Russia": {
+    "elo": 1794.69,
+    "avg_goals_scored": 1.9,
+    "avg_goals_conceded": 0.7,
+    "wc_exp": 11,
+    "home_boost": 0
+  },
+  "Finland": {
+    "elo": 1571.58,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Luxembourg": {
+    "elo": 1486.74,
+    "avg_goals_scored": 0.3,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Catalonia": {
+    "elo": 1706.43,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 2.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Philippines": {
+    "elo": 1375.97,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 1.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "China": {
+    "elo": 1549.63,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Brazil": {
+    "elo": 1931.71,
+    "avg_goals_scored": 1.222,
+    "avg_goals_conceded": 1.222,
+    "wc_exp": 23,
+    "home_boost": 0
+  },
+  "Basque Country": {
+    "elo": 1792.83,
+    "avg_goals_scored": 2.5,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Japan": {
+    "elo": 1903.94,
+    "avg_goals_scored": 1.444,
+    "avg_goals_conceded": 0.667,
+    "wc_exp": 8,
+    "home_boost": 0
+  },
+  "Paraguay": {
+    "elo": 1790.81,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 1.556,
+    "wc_exp": 9,
+    "home_boost": 0
+  },
+  "Romania": {
+    "elo": 1662.31,
+    "avg_goals_scored": 1.8,
+    "avg_goals_conceded": 1.3,
+    "wc_exp": 7,
+    "home_boost": 0
+  },
+  "Greece": {
+    "elo": 1739.66,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 1.1,
+    "wc_exp": 3,
+    "home_boost": 0
+  },
+  "Yugoslavia": {
+    "elo": 1732.25,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 1.1,
+    "wc_exp": 8,
+    "home_boost": 0
+  },
+  "Spain": {
+    "elo": 2021.57,
+    "avg_goals_scored": 2.889,
+    "avg_goals_conceded": 0.778,
+    "wc_exp": 17,
+    "home_boost": 0
+  },
+  "Egypt": {
+    "elo": 1759.69,
+    "avg_goals_scored": 0.889,
+    "avg_goals_conceded": 0.889,
+    "wc_exp": 4,
+    "home_boost": 0
+  },
+  "Estonia": {
+    "elo": 1465.84,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Suriname": {
+    "elo": 1534.99,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 1.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Provence": {
+    "elo": 1447.75,
+    "avg_goals_scored": 3.2,
+    "avg_goals_conceded": 2.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Costa Rica": {
+    "elo": 1661.0,
+    "avg_goals_scored": 1.9,
+    "avg_goals_conceded": 1.3,
+    "wc_exp": 6,
+    "home_boost": 0
+  },
+  "El Salvador": {
+    "elo": 1474.03,
+    "avg_goals_scored": 0.4,
+    "avg_goals_conceded": 1.4,
+    "wc_exp": 2,
+    "home_boost": 0
+  },
+  "Guatemala": {
+    "elo": 1576.56,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Poland": {
+    "elo": 1760.26,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 9,
+    "home_boost": 0
+  },
+  "Portugal": {
+    "elo": 1928.21,
+    "avg_goals_scored": 1.444,
+    "avg_goals_conceded": 0.778,
+    "wc_exp": 9,
+    "home_boost": 0
+  },
+  "Brittany": {
+    "elo": 1528.99,
+    "avg_goals_scored": 1.6,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "New Zealand": {
+    "elo": 1617.93,
+    "avg_goals_scored": 0.6,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 3,
+    "home_boost": 0
+  },
+  "Australia": {
+    "elo": 1852.39,
+    "avg_goals_scored": 1.375,
+    "avg_goals_conceded": 1.25,
+    "wc_exp": 7,
+    "home_boost": 0
+  },
+  "Latvia": {
+    "elo": 1371.37,
+    "avg_goals_scored": 0.6,
+    "avg_goals_conceded": 1.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Galicia": {
+    "elo": 1554.64,
+    "avg_goals_scored": 1.6,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Central Spain": {
+    "elo": 1501.37,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Mexico": {
+    "elo": 1850.24,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 0.7,
+    "wc_exp": 18,
+    "home_boost": 1
+  },
+  "Andalusia": {
+    "elo": 1630.68,
+    "avg_goals_scored": 2.3,
+    "avg_goals_conceded": 0.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Asturias": {
+    "elo": 1517.44,
+    "avg_goals_scored": 3.0,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Lithuania": {
+    "elo": 1368.56,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Turkey": {
+    "elo": 1853.67,
+    "avg_goals_scored": 2.111,
+    "avg_goals_conceded": 1.111,
+    "wc_exp": 3,
+    "home_boost": 0
+  },
+  "Aruba": {
+    "elo": 1241.82,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Cura\u00e7ao": {
+    "elo": 1540.22,
+    "avg_goals_scored": 1.778,
+    "avg_goals_conceded": 2.333,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Bulgaria": {
+    "elo": 1529.91,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 2.4,
+    "wc_exp": 7,
+    "home_boost": 0
+  },
+  "Republic of Ireland": {
+    "elo": 1721.43,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 3,
+    "home_boost": 0
+  },
+  "Haiti": {
+    "elo": 1649.32,
+    "avg_goals_scored": 2.375,
+    "avg_goals_conceded": 1.125,
+    "wc_exp": 2,
+    "home_boost": 0
+  },
+  "Jamaica": {
+    "elo": 1609.73,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 1.1,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Kenya": {
+    "elo": 1472.74,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 1.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Uganda": {
+    "elo": 1491.08,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Bolivia": {
+    "elo": 1628.37,
+    "avg_goals_scored": 0.3,
+    "avg_goals_conceded": 2.8,
+    "wc_exp": 3,
+    "home_boost": 0
+  },
+  "Peru": {
+    "elo": 1694.9,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 5,
+    "home_boost": 0
+  },
+  "Honduras": {
+    "elo": 1621.68,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 3,
+    "home_boost": 0
+  },
+  "Belarus": {
+    "elo": 1569.45,
+    "avg_goals_scored": 1.6,
+    "avg_goals_conceded": 1.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Ukraine": {
+    "elo": 1777.91,
+    "avg_goals_scored": 1.6,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Barbados": {
+    "elo": 1197.97,
+    "avg_goals_scored": 1.6,
+    "avg_goals_conceded": 2.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Nicaragua": {
+    "elo": 1461.45,
+    "avg_goals_scored": 0.4,
+    "avg_goals_conceded": 2.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Cuba": {
+    "elo": 1396.32,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Martinique": {
+    "elo": 1445.34,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Dominica": {
+    "elo": 1224.91,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 3.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Silesia": {
+    "elo": 1515.64,
+    "avg_goals_scored": 3.0,
+    "avg_goals_conceded": 2.125,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Guadeloupe": {
+    "elo": 1492.54,
+    "avg_goals_scored": 2.1,
+    "avg_goals_conceded": 1.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Israel": {
+    "elo": 1645.45,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 1.6,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Indonesia": {
+    "elo": 1514.41,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 2.1,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "French Guiana": {
+    "elo": 1403.64,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Saint Lucia": {
+    "elo": 1293.01,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 2.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Colombia": {
+    "elo": 1903.1,
+    "avg_goals_scored": 1.889,
+    "avg_goals_conceded": 1.222,
+    "wc_exp": 7,
+    "home_boost": 0
+  },
+  "Panama": {
+    "elo": 1720.44,
+    "avg_goals_scored": 1.444,
+    "avg_goals_conceded": 1.222,
+    "wc_exp": 2,
+    "home_boost": 0
+  },
+  "Venezuela": {
+    "elo": 1746.74,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Ecuador": {
+    "elo": 1838.15,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 0.5,
+    "wc_exp": 5,
+    "home_boost": 0
+  },
+  "Saint Kitts and Nevis": {
+    "elo": 1331.46,
+    "avg_goals_scored": 1.3,
+    "avg_goals_conceded": 3.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Grenada": {
+    "elo": 1318.8,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 2.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "India": {
+    "elo": 1301.85,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 1.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Slovakia": {
+    "elo": 1690.92,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Manchukuo": {
+    "elo": 1451.84,
+    "avg_goals_scored": 0.0,
+    "avg_goals_conceded": 5.333,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Croatia": {
+    "elo": 1892.79,
+    "avg_goals_scored": 1.75,
+    "avg_goals_conceded": 1.125,
+    "wc_exp": 7,
+    "home_boost": 0
+  },
+  "Lebanon": {
+    "elo": 1429.42,
+    "avg_goals_scored": 1.3,
+    "avg_goals_conceded": 0.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Puerto Rico": {
+    "elo": 1371.29,
+    "avg_goals_scored": 1.3,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Afghanistan": {
+    "elo": 1205.19,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Iran": {
+    "elo": 1851.43,
+    "avg_goals_scored": 2.125,
+    "avg_goals_conceded": 1.125,
+    "wc_exp": 7,
+    "home_boost": 0
+  },
+  "Mongolia": {
+    "elo": 1089.38,
+    "avg_goals_scored": 0.2,
+    "avg_goals_conceded": 3.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Tanzania": {
+    "elo": 1395.3,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 1.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Zimbabwe": {
+    "elo": 1452.39,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 1.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Zambia": {
+    "elo": 1511.68,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Iceland": {
+    "elo": 1596.42,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Albania": {
+    "elo": 1617.36,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 0.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Montenegro": {
+    "elo": 1555.69,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Madagascar": {
+    "elo": 1482.98,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Mauritius": {
+    "elo": 1251.64,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "R\u00e9union": {
+    "elo": 1552.17,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 1.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Zanzibar": {
+    "elo": 1520.22,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 1.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Djibouti": {
+    "elo": 1130.64,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 2.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Ethiopia": {
+    "elo": 1412.78,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 1.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "DR Congo": {
+    "elo": 1715.85,
+    "avg_goals_scored": 1.625,
+    "avg_goals_conceded": 0.5,
+    "wc_exp": 2,
+    "home_boost": 0
+  },
+  "South Korea": {
+    "elo": 1865.6,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 1.125,
+    "wc_exp": 12,
+    "home_boost": 0
+  },
+  "Vietnam": {
+    "elo": 1530.68,
+    "avg_goals_scored": 1.7,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Macau": {
+    "elo": 980.56,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 3.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Dominican Republic": {
+    "elo": 1457.57,
+    "avg_goals_scored": 1.7,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Cyprus": {
+    "elo": 1428.91,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Sierra Leone": {
+    "elo": 1429.84,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Nigeria": {
+    "elo": 1761.68,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 6,
+    "home_boost": 0
+  },
+  "Syria": {
+    "elo": 1529.27,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Serbia": {
+    "elo": 1749.87,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 5,
+    "home_boost": 0
+  },
+  "Taiwan": {
+    "elo": 1186.48,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 3.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Ghana": {
+    "elo": 1615.9,
+    "avg_goals_scored": 1.125,
+    "avg_goals_conceded": 1.75,
+    "wc_exp": 5,
+    "home_boost": 0
+  },
+  "Myanmar": {
+    "elo": 1223.85,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 3.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "New Caledonia": {
+    "elo": 1533.63,
+    "avg_goals_scored": 2.2,
+    "avg_goals_conceded": 1.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Vanuatu": {
+    "elo": 1454.78,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 2.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Fiji": {
+    "elo": 1425.65,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 2.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Pakistan": {
+    "elo": 1151.43,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Sri Lanka": {
+    "elo": 1113.01,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 1.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "German DR": {
+    "elo": 1699.79,
+    "avg_goals_scored": 1.7,
+    "avg_goals_conceded": 1.6,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Tahiti": {
+    "elo": 1506.58,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Gambia": {
+    "elo": 1494.58,
+    "avg_goals_scored": 1.9,
+    "avg_goals_conceded": 1.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Hong Kong": {
+    "elo": 1347.62,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Singapore": {
+    "elo": 1354.82,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Malaysia": {
+    "elo": 1532.16,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Guinea-Bissau": {
+    "elo": 1371.13,
+    "avg_goals_scored": 0.4,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Saarland": {
+    "elo": 1449.75,
+    "avg_goals_scored": 1.111,
+    "avg_goals_conceded": 2.889,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Burundi": {
+    "elo": 1397.97,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 2.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Cameroon": {
+    "elo": 1664.05,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 0.8,
+    "wc_exp": 8,
+    "home_boost": 0
+  },
+  "Kernow": {
+    "elo": 1604.76,
+    "avg_goals_scored": 2.7,
+    "avg_goals_conceded": 0.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Cambodia": {
+    "elo": 1172.49,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Thailand": {
+    "elo": 1546.1,
+    "avg_goals_scored": 3.0,
+    "avg_goals_conceded": 1.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Vietnam Republic": {
+    "elo": 1416.39,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 2.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Kyrgyzstan": {
+    "elo": 1455.39,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Moldova": {
+    "elo": 1371.56,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 2.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "North Vietnam": {
+    "elo": 1463.2,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Togo": {
+    "elo": 1488.6,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.6,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "North Korea": {
+    "elo": 1486.89,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 1.6,
+    "wc_exp": 2,
+    "home_boost": 0
+  },
+  "Sudan": {
+    "elo": 1450.34,
+    "avg_goals_scored": 0.3,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Malta": {
+    "elo": 1421.74,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 2.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Tunisia": {
+    "elo": 1658.02,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 7,
+    "home_boost": 0
+  },
+  "Libya": {
+    "elo": 1528.06,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Malawi": {
+    "elo": 1410.21,
+    "avg_goals_scored": 0.4,
+    "avg_goals_conceded": 1.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Morocco": {
+    "elo": 1898.87,
+    "avg_goals_scored": 1.778,
+    "avg_goals_conceded": 0.778,
+    "wc_exp": 7,
+    "home_boost": 0
+  },
+  "Benin": {
+    "elo": 1501.86,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Cape Verde": {
+    "elo": 1642.09,
+    "avg_goals_scored": 1.333,
+    "avg_goals_conceded": 1.333,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Ivory Coast": {
+    "elo": 1822.12,
+    "avg_goals_scored": 2.0,
+    "avg_goals_conceded": 0.875,
+    "wc_exp": 4,
+    "home_boost": 0
+  },
+  "Burkina Faso": {
+    "elo": 1614.52,
+    "avg_goals_scored": 1.6,
+    "avg_goals_conceded": 1.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Gabon": {
+    "elo": 1516.38,
+    "avg_goals_scored": 1.9,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Congo": {
+    "elo": 1352.79,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 2.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Mali": {
+    "elo": 1648.01,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 0.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Central African Republic": {
+    "elo": 1368.19,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 2.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Iraq": {
+    "elo": 1742.01,
+    "avg_goals_scored": 0.75,
+    "avg_goals_conceded": 0.625,
+    "wc_exp": 2,
+    "home_boost": 0
+  },
+  "Saint Vincent and the Grenadines": {
+    "elo": 1383.49,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Senegal": {
+    "elo": 1838.1,
+    "avg_goals_scored": 2.375,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 4,
+    "home_boost": 0
+  },
+  "Laos": {
+    "elo": 1067.78,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 2.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Mauritania": {
+    "elo": 1465.46,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Liberia": {
+    "elo": 1396.46,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Chad": {
+    "elo": 1278.92,
+    "avg_goals_scored": 0.4,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Niger": {
+    "elo": 1434.24,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 1.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Guinea": {
+    "elo": 1512.96,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 0.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Kuwait": {
+    "elo": 1494.65,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Jordan": {
+    "elo": 1690.52,
+    "avg_goals_scored": 1.778,
+    "avg_goals_conceded": 1.889,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Algeria": {
+    "elo": 1851.55,
+    "avg_goals_scored": 2.625,
+    "avg_goals_conceded": 0.875,
+    "wc_exp": 5,
+    "home_boost": 0
+  },
+  "Papua New Guinea": {
+    "elo": 1467.64,
+    "avg_goals_scored": 1.3,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Solomon Islands": {
+    "elo": 1387.45,
+    "avg_goals_scored": 0.6,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Somalia": {
+    "elo": 1121.51,
+    "avg_goals_scored": 0.6,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Saudi Arabia": {
+    "elo": 1714.85,
+    "avg_goals_scored": 1.375,
+    "avg_goals_conceded": 1.25,
+    "wc_exp": 7,
+    "home_boost": 0
+  },
+  "Bermuda": {
+    "elo": 1378.69,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Palestine": {
+    "elo": 1522.23,
+    "avg_goals_scored": 0.4,
+    "avg_goals_conceded": 0.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Yemen": {
+    "elo": 1315.32,
+    "avg_goals_scored": 1.3,
+    "avg_goals_conceded": 0.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Bahrain": {
+    "elo": 1517.51,
+    "avg_goals_scored": 0.6,
+    "avg_goals_conceded": 1.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Oman": {
+    "elo": 1580.94,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Wallis Islands and Futuna": {
+    "elo": 1346.24,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 5.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Corsica": {
+    "elo": 1577.17,
+    "avg_goals_scored": 1.111,
+    "avg_goals_conceded": 0.556,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Western Australia": {
+    "elo": 1409.91,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Eswatini": {
+    "elo": 1325.43,
+    "avg_goals_scored": 0.6,
+    "avg_goals_conceded": 2.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Botswana": {
+    "elo": 1423.29,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Qatar": {
+    "elo": 1631.05,
+    "avg_goals_scored": 0.75,
+    "avg_goals_conceded": 2.625,
+    "wc_exp": 2,
+    "home_boost": 0
+  },
+  "Lesotho": {
+    "elo": 1387.1,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 2.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Bahamas": {
+    "elo": 1104.48,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 3.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Brunei": {
+    "elo": 1036.19,
+    "avg_goals_scored": 0.4,
+    "avg_goals_conceded": 4.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Cook Islands": {
+    "elo": 1254.29,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Yemen DPR": {
+    "elo": 1400.91,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "United Arab Emirates": {
+    "elo": 1639.51,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Faroe Islands": {
+    "elo": 1435.45,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Nepal": {
+    "elo": 1193.25,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Antigua and Barbuda": {
+    "elo": 1222.18,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 2.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Bangladesh": {
+    "elo": 1219.06,
+    "avg_goals_scored": 0.4,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Seychelles": {
+    "elo": 1082.08,
+    "avg_goals_scored": 0.2,
+    "avg_goals_conceded": 3.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Equatorial Guinea": {
+    "elo": 1443.02,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Mozambique": {
+    "elo": 1465.31,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 2.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Guam": {
+    "elo": 1085.92,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 2.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Angola": {
+    "elo": 1559.29,
+    "avg_goals_scored": 0.6,
+    "avg_goals_conceded": 0.7,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
+    "elo": 1215.54,
+    "avg_goals_scored": 0.4,
+    "avg_goals_conceded": 2.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Rwanda": {
+    "elo": 1467.24,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 1.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Northern Cyprus": {
+    "elo": 1632.03,
+    "avg_goals_scored": 2.0,
+    "avg_goals_conceded": 1.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Armenia": {
+    "elo": 1451.21,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 3.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Georgia": {
+    "elo": 1671.12,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Azerbaijan": {
+    "elo": 1429.04,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 2.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Kazakhstan": {
+    "elo": 1488.38,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 2.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Comoros": {
+    "elo": 1475.45,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 1.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Maldives": {
+    "elo": 1099.4,
+    "avg_goals_scored": 0.9,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Tonga": {
+    "elo": 1189.27,
+    "avg_goals_scored": 1.3,
+    "avg_goals_conceded": 4.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Tuvalu": {
+    "elo": 1304.72,
+    "avg_goals_scored": 1.3,
+    "avg_goals_conceded": 4.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Kiribati": {
+    "elo": 1360.98,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 11.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Samoa": {
+    "elo": 1316.07,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 4.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Greenland": {
+    "elo": 1447.81,
+    "avg_goals_scored": 2.2,
+    "avg_goals_conceded": 1.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Liechtenstein": {
+    "elo": 1104.83,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 3.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Bhutan": {
+    "elo": 966.75,
+    "avg_goals_scored": 0.3,
+    "avg_goals_conceded": 3.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "South Yemen": {
+    "elo": 1473.49,
+    "avg_goals_scored": 0.333,
+    "avg_goals_conceded": 2.667,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Niue": {
+    "elo": 1475.07,
+    "avg_goals_scored": 0.0,
+    "avg_goals_conceded": 16.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "American Samoa": {
+    "elo": 1108.96,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 6.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Belize": {
+    "elo": 1322.63,
+    "avg_goals_scored": 1.7,
+    "avg_goals_conceded": 2.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Cayman Islands": {
+    "elo": 1165.87,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 3.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Anguilla": {
+    "elo": 1048.79,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "British Virgin Islands": {
+    "elo": 1137.79,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Palau": {
+    "elo": 1455.82,
+    "avg_goals_scored": 2.0,
+    "avg_goals_conceded": 10.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Sint Maarten": {
+    "elo": 1336.16,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Namibia": {
+    "elo": 1406.39,
+    "avg_goals_scored": 0.3,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Shetland": {
+    "elo": 1479.62,
+    "avg_goals_scored": 1.8,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Ynys M\u00f4n": {
+    "elo": 1655.42,
+    "avg_goals_scored": 2.4,
+    "avg_goals_conceded": 1.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "\u00c5land Islands": {
+    "elo": 1483.79,
+    "avg_goals_scored": 1.3,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Saint Martin": {
+    "elo": 1295.38,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 2.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "San Marino": {
+    "elo": 1016.77,
+    "avg_goals_scored": 0.6,
+    "avg_goals_conceded": 3.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Montserrat": {
+    "elo": 1290.09,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 2.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Slovenia": {
+    "elo": 1716.72,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 2,
+    "home_boost": 0
+  },
+  "Isle of Wight": {
+    "elo": 1624.79,
+    "avg_goals_scored": 2.7,
+    "avg_goals_conceded": 1.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Turkmenistan": {
+    "elo": 1395.05,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Tajikistan": {
+    "elo": 1442.92,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Uzbekistan": {
+    "elo": 1782.34,
+    "avg_goals_scored": 1.125,
+    "avg_goals_conceded": 1.375,
+    "wc_exp": 1,
+    "home_boost": 0
+  },
+  "Eritrea": {
+    "elo": 1245.43,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Isle of Man": {
+    "elo": 1648.54,
+    "avg_goals_scored": 3.6,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Gibraltar": {
+    "elo": 1254.58,
+    "avg_goals_scored": 0.3,
+    "avg_goals_conceded": 3.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "North Macedonia": {
+    "elo": 1605.48,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 1.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Czech Republic": {
+    "elo": 1762.63,
+    "avg_goals_scored": 1.778,
+    "avg_goals_conceded": 1.667,
+    "wc_exp": 2,
+    "home_boost": 0
+  },
+  "Bosnia and Herzegovina": {
+    "elo": 1647.94,
+    "avg_goals_scored": 2.0,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 2,
+    "home_boost": 0
+  },
+  "Canary Islands": {
+    "elo": 1522.6,
+    "avg_goals_scored": 2.75,
+    "avg_goals_conceded": 0.75,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Andorra": {
+    "elo": 1211.52,
+    "avg_goals_scored": 0.2,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Fr\u00f8ya": {
+    "elo": 1270.75,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 5.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Hitra": {
+    "elo": 1384.52,
+    "avg_goals_scored": 1.8,
+    "avg_goals_conceded": 4.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "United States Virgin Islands": {
+    "elo": 1113.02,
+    "avg_goals_scored": 0.8,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Northern Mariana Islands": {
+    "elo": 1137.83,
+    "avg_goals_scored": 0.2,
+    "avg_goals_conceded": 5.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Turks and Caicos Islands": {
+    "elo": 1190.67,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 2.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Micronesia": {
+    "elo": 1412.65,
+    "avg_goals_scored": 1.143,
+    "avg_goals_conceded": 8.429,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Gotland": {
+    "elo": 1434.37,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Saare County": {
+    "elo": 1359.73,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 2.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Rhodes": {
+    "elo": 1576.26,
+    "avg_goals_scored": 1.7,
+    "avg_goals_conceded": 0.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Monaco": {
+    "elo": 1463.75,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 6.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Western Sahara": {
+    "elo": 1449.73,
+    "avg_goals_scored": 1.778,
+    "avg_goals_conceded": 4.222,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Tibet": {
+    "elo": 1309.71,
+    "avg_goals_scored": 2.1,
+    "avg_goals_conceded": 7.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Orkney": {
+    "elo": 1429.49,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 4.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Falkland Islands": {
+    "elo": 1290.72,
+    "avg_goals_scored": 0.7,
+    "avg_goals_conceded": 3.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Mayotte": {
+    "elo": 1430.39,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 0.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Vatican City": {
+    "elo": 1414.89,
+    "avg_goals_scored": 0.75,
+    "avg_goals_conceded": 2.625,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Timor-Leste": {
+    "elo": 992.87,
+    "avg_goals_scored": 0.6,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Sark": {
+    "elo": 1437.58,
+    "avg_goals_scored": 0.0,
+    "avg_goals_conceded": 17.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Sealand": {
+    "elo": 1494.21,
+    "avg_goals_scored": 2.4,
+    "avg_goals_conceded": 2.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Occitania": {
+    "elo": 1636.89,
+    "avg_goals_scored": 3.0,
+    "avg_goals_conceded": 0.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Chechnya": {
+    "elo": 1469.56,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 9.667,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Ambazonia": {
+    "elo": 1425.01,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 2.833,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Western Isles": {
+    "elo": 1450.31,
+    "avg_goals_scored": 1.3,
+    "avg_goals_conceded": 2.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Kosovo": {
+    "elo": 1699.81,
+    "avg_goals_scored": 1.7,
+    "avg_goals_conceded": 1.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Republic of St. Pauli": {
+    "elo": 1478.78,
+    "avg_goals_scored": 2.5,
+    "avg_goals_conceded": 1.25,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Crimea": {
+    "elo": 1507.29,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "G\u0103g\u0103uzia": {
+    "elo": 1453.56,
+    "avg_goals_scored": 0.667,
+    "avg_goals_conceded": 3.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "S\u00e1pmi": {
+    "elo": 1460.08,
+    "avg_goals_scored": 1.8,
+    "avg_goals_conceded": 2.7,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Romani people": {
+    "elo": 1466.05,
+    "avg_goals_scored": 1.857,
+    "avg_goals_conceded": 3.714,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Menorca": {
+    "elo": 1523.98,
+    "avg_goals_scored": 1.6,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Iraqi Kurdistan": {
+    "elo": 1597.18,
+    "avg_goals_scored": 2.8,
+    "avg_goals_conceded": 0.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Padania": {
+    "elo": 1627.81,
+    "avg_goals_scored": 2.2,
+    "avg_goals_conceded": 1.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Arameans Suryoye": {
+    "elo": 1536.84,
+    "avg_goals_scored": 1.6,
+    "avg_goals_conceded": 1.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Gozo": {
+    "elo": 1477.97,
+    "avg_goals_scored": 1.1,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Two Sicilies": {
+    "elo": 1442.45,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 3.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Saint Barth\u00e9lemy": {
+    "elo": 1417.71,
+    "avg_goals_scored": 2.5,
+    "avg_goals_conceded": 3.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Saint Pierre and Miquelon": {
+    "elo": 1393.06,
+    "avg_goals_scored": 0.286,
+    "avg_goals_conceded": 11.143,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Bonaire": {
+    "elo": 1230.44,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 2.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Chagos Islands": {
+    "elo": 1386.13,
+    "avg_goals_scored": 1.6,
+    "avg_goals_conceded": 4.6,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Raetia": {
+    "elo": 1412.23,
+    "avg_goals_scored": 1.7,
+    "avg_goals_conceded": 3.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Cilento": {
+    "elo": 1484.99,
+    "avg_goals_scored": 0.0,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Kurdistan": {
+    "elo": 1549.57,
+    "avg_goals_scored": 2.4,
+    "avg_goals_conceded": 0.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Darfur": {
+    "elo": 1401.51,
+    "avg_goals_scored": 0.143,
+    "avg_goals_conceded": 14.143,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Tamil Eelam": {
+    "elo": 1553.74,
+    "avg_goals_scored": 2.5,
+    "avg_goals_conceded": 1.9,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "South Sudan": {
+    "elo": 1295.3,
+    "avg_goals_scored": 0.3,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Abkhazia": {
+    "elo": 1598.46,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 1.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Artsakh": {
+    "elo": 1550.29,
+    "avg_goals_scored": 2.9,
+    "avg_goals_conceded": 1.4,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Madrid": {
+    "elo": 1489.32,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Quebec": {
+    "elo": 1508.55,
+    "avg_goals_scored": 8.0,
+    "avg_goals_conceded": 0.667,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Saugeais": {
+    "elo": 1497.88,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "South Ossetia": {
+    "elo": 1479.31,
+    "avg_goals_scored": 2.8,
+    "avg_goals_conceded": 2.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Ellan Vannin": {
+    "elo": 1555.4,
+    "avg_goals_scored": 1.3,
+    "avg_goals_conceded": 1.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Somaliland": {
+    "elo": 1482.98,
+    "avg_goals_scored": 2.333,
+    "avg_goals_conceded": 3.333,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Franconia": {
+    "elo": 1503.92,
+    "avg_goals_scored": 2.667,
+    "avg_goals_conceded": 3.667,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "County of Nice": {
+    "elo": 1572.68,
+    "avg_goals_scored": 2.111,
+    "avg_goals_conceded": 1.444,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Seborga": {
+    "elo": 1482.95,
+    "avg_goals_scored": 2.0,
+    "avg_goals_conceded": 3.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Sz\u00e9kely Land": {
+    "elo": 1473.43,
+    "avg_goals_scored": 1.7,
+    "avg_goals_conceded": 2.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Luhansk PR": {
+    "elo": 1484.7,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Donetsk PR": {
+    "elo": 1509.06,
+    "avg_goals_scored": 1.333,
+    "avg_goals_conceded": 1.167,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Felvid\u00e9k": {
+    "elo": 1506.12,
+    "avg_goals_scored": 1.2,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Panjab": {
+    "elo": 1531.63,
+    "avg_goals_scored": 2.7,
+    "avg_goals_conceded": 1.3,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "United Koreans in Japan": {
+    "elo": 1496.04,
+    "avg_goals_scored": 1.9,
+    "avg_goals_conceded": 0.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Western Armenia": {
+    "elo": 1484.47,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "K\u00e1rp\u00e1talja": {
+    "elo": 1570.08,
+    "avg_goals_scored": 2.3,
+    "avg_goals_conceded": 1.1,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "D\u00e9lvid\u00e9k": {
+    "elo": 1496.09,
+    "avg_goals_scored": 2.0,
+    "avg_goals_conceded": 1.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Barawa": {
+    "elo": 1428.37,
+    "avg_goals_scored": 1.4,
+    "avg_goals_conceded": 3.8,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Ry\u016bky\u016b": {
+    "elo": 1483.63,
+    "avg_goals_scored": 0.0,
+    "avg_goals_conceded": 9.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Yorkshire": {
+    "elo": 1558.67,
+    "avg_goals_scored": 3.857,
+    "avg_goals_conceded": 1.571,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Surrey": {
+    "elo": 1514.42,
+    "avg_goals_scored": 3.0,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Kabylia": {
+    "elo": 1470.79,
+    "avg_goals_scored": 1.333,
+    "avg_goals_conceded": 2.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Matabeleland": {
+    "elo": 1499.53,
+    "avg_goals_scored": 0.875,
+    "avg_goals_conceded": 1.75,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Cascadia": {
+    "elo": 1530.18,
+    "avg_goals_scored": 3.286,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Parishes of Jersey": {
+    "elo": 1514.34,
+    "avg_goals_scored": 3.667,
+    "avg_goals_conceded": 1.333,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Chameria": {
+    "elo": 1516.51,
+    "avg_goals_scored": 2.0,
+    "avg_goals_conceded": 1.143,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Saint Helena": {
+    "elo": 1391.99,
+    "avg_goals_scored": 0.75,
+    "avg_goals_conceded": 5.125,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "West Papua": {
+    "elo": 1478.74,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 4.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "East Turkestan": {
+    "elo": 1477.75,
+    "avg_goals_scored": 3.0,
+    "avg_goals_conceded": 3.2,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Elba Island": {
+    "elo": 1522.74,
+    "avg_goals_scored": 4.5,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Yoruba Nation": {
+    "elo": 1483.28,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Biafra": {
+    "elo": 1517.46,
+    "avg_goals_scored": 0.667,
+    "avg_goals_conceded": 0.333,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Mapuche": {
+    "elo": 1500.74,
+    "avg_goals_scored": 1.5,
+    "avg_goals_conceded": 1.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Maule Sur": {
+    "elo": 1530.5,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 0.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Aymara": {
+    "elo": 1468.77,
+    "avg_goals_scored": 0.5,
+    "avg_goals_conceded": 2.0,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Ticino": {
+    "elo": 1458.42,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 6.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Hmong": {
+    "elo": 1477.27,
+    "avg_goals_scored": 2.0,
+    "avg_goals_conceded": 3.333,
+    "wc_exp": 0,
+    "home_boost": 0
+  },
+  "Marshall Islands": {
+    "elo": 1443.17,
+    "avg_goals_scored": 1.0,
+    "avg_goals_conceded": 3.5,
+    "wc_exp": 0,
+    "home_boost": 0
+  }
+}
