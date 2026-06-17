@@ -47,19 +47,20 @@ alle_teams = sorted(team_stats.keys())
 # ── Predict Score Funktion ────────────────────────────────
 def predict_score(home, away, elo_diff, n_simulations=10000):
     x_h = pd.DataFrame([{
-        "avg_goals_scored_home":   home["avg_goals_scored"],
+        "avg_goals_scored_home": home["avg_goals_scored"],
         "avg_goals_conceded_away": away["avg_goals_conceded"],
-        "elo_diff":                elo_diff,
-        "home_boost":              home["home_boost"],
-        "wc_exp_home":             home["wc_exp"]
+        "elo_diff": elo_diff,
+        "home_boost": home["home_boost"],
+        "recent_form_home": home["recent_form"],  # ← neu
+        "wc_exp_home": home["wc_exp"]
     }])
     x_a = pd.DataFrame([{
-        "avg_goals_scored_away":   away["avg_goals_scored"],
+        "avg_goals_scored_away": away["avg_goals_scored"],
         "avg_goals_conceded_home": home["avg_goals_conceded"],
-        "elo_diff":                elo_diff,
-        "wc_exp_away":             away["wc_exp"]
+        "elo_diff": elo_diff,
+        "recent_form_away": away["recent_form"],  # ← neu
+        "wc_exp_away": away["wc_exp"]
     }])
-
     lh = poisson_home.predict(x_h)[0]
     la = poisson_away.predict(x_a)[0]
 
@@ -100,16 +101,17 @@ if predict_btn:
     away = team_stats[away_team]
 
     X = pd.DataFrame([{
-        "avg_goals_scored_home":   home["avg_goals_scored"],
+        "avg_goals_scored_home": home["avg_goals_scored"],
         "avg_goals_conceded_home": home["avg_goals_conceded"],
-        "avg_goals_scored_away":   away["avg_goals_scored"],
+        "avg_goals_scored_away": away["avg_goals_scored"],
         "avg_goals_conceded_away": away["avg_goals_conceded"],
-        "wc_exp_home":             home["wc_exp"],
-        "wc_exp_away":             away["wc_exp"],
-        "elo_diff":                home["elo"] - away["elo"],
-        "home_boost":              home["home_boost"]
+        "recent_form_home": home["recent_form"],  # ← neu
+        "recent_form_away": away["recent_form"],  # ← neu
+        "wc_exp_home": home["wc_exp"],
+        "wc_exp_away": away["wc_exp"],
+        "elo_diff": home["elo"] - away["elo"],
+        "home_boost": home["home_boost"]
     }])
-
     probs = model.predict_proba(X)[0]
 
     # ── Ergebnis anzeigen ─────────────────────────────────
