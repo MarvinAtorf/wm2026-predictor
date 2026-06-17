@@ -4,7 +4,6 @@ import joblib
 import json
 import shap
 import matplotlib.pyplot as plt
-from scipy.stats import poisson as scipy_poisson
 import numpy as np
 
 # ── Page Config ───────────────────────────────────────────
@@ -38,7 +37,6 @@ def load_poisson():
     return ph, pa, fh, fa
 
 poisson_home, poisson_away, features_home, features_away = load_poisson()
-
 model      = load_model()
 features   = load_features()
 team_stats = load_team_stats()
@@ -47,7 +45,7 @@ schedule   = load_schedule()
 alle_teams = sorted(team_stats.keys())
 
 # ── Predict Score Funktion ────────────────────────────────
-def predict_score(home, away, elo_diff):
+def predict_score(home, away, elo_diff, n_simulations=10000):
     x_h = pd.DataFrame([{
         "avg_goals_scored_home":   home["avg_goals_scored"],
         "avg_goals_conceded_away": away["avg_goals_conceded"],
@@ -65,12 +63,18 @@ def predict_score(home, away, elo_diff):
     lh = poisson_home.predict(x_h)[0]
     la = poisson_away.predict(x_a)[0]
 
-    matrix = np.outer(
-        scipy_poisson.pmf(range(6), lh),
-        scipy_poisson.pmf(range(6), la)
-    )
-    idx = np.unravel_index(matrix.argmax(), matrix.shape)
-    return lh, la, idx[0], idx[1], matrix[idx]
+    goals_home = np.random.poisson(lh, n_simulations)
+    goals_away = np.random.poisson(la, n_simulations)
+
+    results = pd.DataFrame({"home": goals_home, "away": goals_away})
+    top3 = (results
+            .value_counts()
+            .head(3)
+            .reset_index()
+            .rename(columns={0: "count"}))
+    top3["probability"] = top3["count"] / n_simulations
+
+    return lh, la, top3
 
 # ── Header ────────────────────────────────────────────────
 st.title("🏆 WM 2026 — Match Predictor")
@@ -130,15 +134,17 @@ if predict_btn:
     st.subheader("⚽ Torvorhersage")
 
     elo_diff = home["elo"] - away["elo"]
-    lh, la, g_h, g_a, prob = predict_score(home, away, elo_diff)
+    lh, la, top3 = predict_score(home, away, elo_diff)
 
-    col1, col2, col3 = st.columns(3)
+    col1, col2 = st.columns(2)
     with col1:
         st.metric(f"Erwartete Tore {home_team}", f"{lh:.2f}")
     with col2:
         st.metric(f"Erwartete Tore {away_team}", f"{la:.2f}")
-    with col3:
-        st.metric("Wahrscheinlichstes Ergebnis", f"{g_h}:{g_a}", f"{prob:.1%}")
+
+    st.markdown("**Top 3 wahrscheinlichste Ergebnisse:**")
+    for _, row in top3.iterrows():
+        st.write(f"{int(row['home'])}:{int(row['away'])}  →  {row['probability']:.1%}")
 
     # ── SHAP Waterfall ────────────────────────────────────
     st.divider()

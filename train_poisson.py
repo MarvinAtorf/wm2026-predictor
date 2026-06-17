@@ -50,7 +50,7 @@ for _, row in alle_spiele.iterrows():
     r_home = elo_ratings.get(home, DEFAULT_ELO)
     r_away = elo_ratings.get(away, DEFAULT_ELO)
     e_home = 1 / (1 + 10 ** ((r_away - r_home) / 400))
-    if row["home_score"] > row["away_score"]:   s_home, s_away = 1.0, 0.0
+    if row["home_score"] > row["away_score"]:    s_home, s_away = 1.0, 0.0
     elif row["home_score"] == row["away_score"]: s_home, s_away = 0.5, 0.5
     else:                                        s_home, s_away = 0.0, 1.0
     elo_home_list.append(r_home); elo_away_list.append(r_away)
@@ -65,14 +65,18 @@ wm_df = wm_df.merge(elo_merge, on=["date", "home_team", "away_team"], how="left"
 wm_df["elo_diff"]   = wm_df["elo_home"] - wm_df["elo_away"]
 wm_df["home_boost"] = wm_df["home_team"].isin(["United States", "Canada", "Mexico"]).astype(int)
 
-# Clean
+# Clean + nur moderne WMs ab 1990
 wm_df_clean = wm_df.dropna(subset=["home_score", "away_score"])
+wm_df_clean = wm_df_clean[wm_df_clean["date"].dt.year >= 1990]  # ← neu
+
+print(f"Trainingsspiele: {len(wm_df_clean)} (ab 1990)")
+print(f"Durchschnitt Tore Home: {wm_df_clean['home_score'].mean():.2f}")
+print(f"Durchschnitt Tore Away: {wm_df_clean['away_score'].mean():.2f}")
 
 # Poisson Training
 features_home = ["avg_goals_scored_home", "avg_goals_conceded_away", "elo_diff", "home_boost", "wc_exp_home"]
 features_away = ["avg_goals_scored_away", "avg_goals_conceded_home", "elo_diff", "wc_exp_away"]
 
-# wc_exp berechnen
 def get_wc_exp(df, team, before_date):
     h = df[(df["home_team"] == team) & (df["date"] < before_date)]
     a = df[(df["away_team"] == team) & (df["date"] < before_date)]
@@ -99,4 +103,5 @@ joblib.dump(poisson_away,  "poisson_away.pkl")
 joblib.dump(features_home, "features_home.pkl")
 joblib.dump(features_away, "features_away.pkl")
 
-print("✓ Poisson Modelle lokal gespeichert.")
+# letzte Zeile ersetzen:
+print("Poisson Modelle lokal gespeichert.")
