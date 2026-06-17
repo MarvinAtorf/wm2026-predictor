@@ -1,16 +1,23 @@
 [
   {
     "date": "2026-06-11",
+    "home": "Mexico",
+    "away": "South Africa",
+    "result": 2,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-11",
     "home": "South Korea",
     "away": "Czech Republic",
     "result": 2,
     "stage": "group"
   },
   {
-    "date": "2026-06-11",
-    "home": "Mexico",
-    "away": "South Africa",
-    "result": 2,
+    "date": "2026-06-12",
+    "home": "Canada",
+    "away": "Bosnia and Herzegovina",
+    "result": 1,
     "stage": "group"
   },
   {
@@ -21,9 +28,16 @@
     "stage": "group"
   },
   {
-    "date": "2026-06-12",
-    "home": "Canada",
-    "away": "Bosnia and Herzegovina",
+    "date": "2026-06-13",
+    "home": "Brazil",
+    "away": "Morocco",
+    "result": 1,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-13",
+    "home": "Qatar",
+    "away": "Switzerland",
     "result": 1,
     "stage": "group"
   },
@@ -39,20 +53,6 @@
     "home": "Haiti",
     "away": "Scotland",
     "result": 0,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-13",
-    "home": "Qatar",
-    "away": "Switzerland",
-    "result": 1,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-13",
-    "home": "Brazil",
-    "away": "Morocco",
-    "result": 1,
     "stage": "group"
   },
   {
@@ -115,27 +115,41 @@
     "date": "2026-06-16",
     "home": "France",
     "away": "Senegal",
-    "result": null,
+    "result": 2,
     "stage": "group"
   },
   {
     "date": "2026-06-16",
     "home": "Iraq",
     "away": "Norway",
-    "result": null,
+    "result": 0,
     "stage": "group"
   },
   {
     "date": "2026-06-16",
     "home": "Argentina",
     "away": "Algeria",
-    "result": null,
+    "result": 2,
     "stage": "group"
   },
   {
     "date": "2026-06-16",
     "home": "Austria",
     "away": "Jordan",
+    "result": 2,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-17",
+    "home": "Uzbekistan",
+    "away": "Colombia",
+    "result": null,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-17",
+    "home": "Portugal",
+    "away": "DR Congo",
     "result": null,
     "stage": "group"
   },
@@ -150,20 +164,6 @@
     "date": "2026-06-17",
     "home": "England",
     "away": "Croatia",
-    "result": null,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-17",
-    "home": "Portugal",
-    "away": "DR Congo",
-    "result": null,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-17",
-    "home": "Uzbekistan",
-    "away": "Colombia",
     "result": null,
     "stage": "group"
   },
@@ -225,15 +225,8 @@
   },
   {
     "date": "2026-06-20",
-    "home": "Tunisia",
-    "away": "Japan",
-    "result": null,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-20",
-    "home": "Netherlands",
-    "away": "Sweden",
+    "home": "Germany",
+    "away": "Ivory Coast",
     "result": null,
     "stage": "group"
   },
@@ -246,8 +239,15 @@
   },
   {
     "date": "2026-06-20",
-    "home": "Germany",
-    "away": "Ivory Coast",
+    "home": "Netherlands",
+    "away": "Sweden",
+    "result": null,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-20",
+    "home": "Tunisia",
+    "away": "Japan",
     "result": null,
     "stage": "group"
   },
@@ -309,20 +309,6 @@
   },
   {
     "date": "2026-06-23",
-    "home": "England",
-    "away": "Ghana",
-    "result": null,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-23",
-    "home": "Panama",
-    "away": "Croatia",
-    "result": null,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-23",
     "home": "Portugal",
     "away": "Uzbekistan",
     "result": null,
@@ -332,6 +318,20 @@
     "date": "2026-06-23",
     "home": "Colombia",
     "away": "DR Congo",
+    "result": null,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-23",
+    "home": "England",
+    "away": "Ghana",
+    "result": null,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-23",
+    "home": "Panama",
+    "away": "Croatia",
     "result": null,
     "stage": "group"
   },
@@ -379,6 +379,13 @@
   },
   {
     "date": "2026-06-25",
+    "home": "Ecuador",
+    "away": "Germany",
+    "result": null,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-25",
     "home": "Japan",
     "away": "Sweden",
     "result": null,
@@ -407,15 +414,29 @@
   },
   {
     "date": "2026-06-25",
-    "home": "Ecuador",
-    "away": "Germany",
+    "home": "Tunisia",
+    "away": "Netherlands",
     "result": null,
     "stage": "group"
   },
   {
-    "date": "2026-06-25",
-    "home": "Tunisia",
-    "away": "Netherlands",
+    "date": "2026-06-26",
+    "home": "Egypt",
+    "away": "Iran",
+    "result": null,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-26",
+    "home": "Norway",
+    "away": "France",
+    "result": null,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-26",
+    "home": "New Zealand",
+    "away": "Belgium",
     "result": null,
     "stage": "group"
   },
@@ -435,29 +456,29 @@
   },
   {
     "date": "2026-06-26",
-    "home": "Norway",
-    "away": "France",
-    "result": null,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-26",
-    "home": "Egypt",
-    "away": "Iran",
-    "result": null,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-26",
-    "home": "New Zealand",
-    "away": "Belgium",
-    "result": null,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-26",
     "home": "Senegal",
     "away": "Iraq",
+    "result": null,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-27",
+    "home": "Algeria",
+    "away": "Austria",
+    "result": null,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-27",
+    "home": "Panama",
+    "away": "England",
+    "result": null,
+    "stage": "group"
+  },
+  {
+    "date": "2026-06-27",
+    "home": "Jordan",
+    "away": "Argentina",
     "result": null,
     "stage": "group"
   },
@@ -472,27 +493,6 @@
     "date": "2026-06-27",
     "home": "Colombia",
     "away": "Portugal",
-    "result": null,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-27",
-    "home": "Panama",
-    "away": "England",
-    "result": null,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-27",
-    "home": "Algeria",
-    "away": "Austria",
-    "result": null,
-    "stage": "group"
-  },
-  {
-    "date": "2026-06-27",
-    "home": "Jordan",
-    "away": "Argentina",
     "result": null,
     "stage": "group"
   },
