@@ -2,7 +2,8 @@
 
 A Streamlit app that predicts FIFA World Cup 2026 matches. Pick two teams and get win/draw/loss probabilities, expected goals, the most likely scorelines, and a SHAP explanation of why the model predicted what it did.
 
-![App screenshot](docs/screenshot.png)
+<img width="1035" height="1612" alt="screenshot" src="https://github.com/user-attachments/assets/dd747c8f-786c-497d-922c-5c11a51e909d" />
+
 
 ## What it does
 
